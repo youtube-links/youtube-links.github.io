@@ -7,11 +7,11 @@
       
 ### Channel List (Named)
       
-**There is a total of 716 on this page at the moment! Generated at Thu Jan 13 2022 14:59:00 GMT+0000 (Greenwich Mean Time)
+**There is a total of 712 on this page at the moment! Generated at Thu Jan 13 2022 20:28:03 GMT+0000 (Greenwich Mean Time)
 
 ### Channel List (Named)
 
-There is 708 links currently on this list!**
+There is 704 links currently on this list!**
 
 - [/c/BadGameDev](https://youtube.com/c/BadGameDev)
 - [/c/DeepChillMix](https://youtube.com/c/DeepChillMix)
@@ -488,9 +488,6 @@ There is 708 links currently on this list!**
 - [/gaming](https://youtube.com/gaming)
 - [/goddardtv](https://youtube.com/goddardtv)
 - [/googlechromedevelopers](https://youtube.com/googlechromedevelopers)
-- [/post/ugkxitdz_dvqg3l5dnamezvbewrbzfjmrcfd](https://youtube.com/post/ugkxitdz_dvqg3l5dnamezvbewrbzfjmrcfd)
-- [/post/ugkxrjqtf9pchpcpcexqm82a44_cpu1onimf](https://youtube.com/post/ugkxrjqtf9pchpcpcexqm82a44_cpu1onimf)
-- [/post/ugwbe3thpbpt1gq9fo14aaabcq](https://youtube.com/post/ugwbe3thpbpt1gq9fo14aaabcq)
 - [/sidemenreacts](https://youtube.com/sidemenreacts)
 - [/sntv](https://youtube.com/sntv)
 - [/spfl](https://youtube.com/spfl)
@@ -645,7 +642,6 @@ There is 708 links currently on this list!**
 - [/user/pocketbookint](https://youtube.com/user/pocketbookint)
 - [/user/poiisedsm](https://youtube.com/user/poiisedsm)
 - [/user/pokimane](https://youtube.com/user/pokimane)
-- [/user/postboxpat](https://youtube.com/user/postboxpat)
 - [/user/rdcworld1](https://youtube.com/user/rdcworld1)
 - [/user/redsector83](https://youtube.com/user/redsector83)
 - [/user/reece10gaminghd](https://youtube.com/user/reece10gaminghd)
@@ -721,10 +717,11 @@ There is 708 links currently on this list!**
 - [/user/zeissnature](https://youtube.com/user/zeissnature)
 - [/user/zhongguohaogequ](https://youtube.com/user/zhongguohaogequ)
 - [/wbpictures](https://youtube.com/wbpictures)
-
+      
 ### Channel List (Unnamed)
 
 **There is 8 links currently on this list!**
+
 
 - [/channel/UC3PhB06Mw0BAZjKdunMrajg](https://youtube.com/channel/UC3PhB06Mw0BAZjKdunMrajg)
 - [/channel/UC5-cg5RahETrjGu-r8zjYCQ](https://youtube.com/channel/UC5-cg5RahETrjGu-r8zjYCQ)
