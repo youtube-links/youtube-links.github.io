@@ -4,12 +4,28 @@
 ### About 
       
 👋 Hello, I'm here to present a list of some big and small upcoming channels in one place using this page that you can view the channels listed here to help help support them, the list is growing and will get bigger over time! 😀 
-
       
-**There is 697 links currently on this list! Generated at Mon Dec 27 2021 22:38:49 GMT+0000 (Greenwich Mean Time)**
+### Channel List (Named)
+      
+**There is a total of 716 on this page at the moment! Generated at Thu Jan 13 2022 14:59:00 GMT+0000 (Greenwich Mean Time)
 
 ### Channel List (Named)
 
+There is 708 links currently on this list!**
+
+- [/c/BadGameDev](https://youtube.com/c/BadGameDev)
+- [/c/DeepChillMix](https://youtube.com/c/DeepChillMix)
+- [/c/DudePerfect](https://youtube.com/c/DudePerfect)
+- [/c/Grmdaily](https://youtube.com/c/Grmdaily)
+- [/c/JAZZBLUES37999](https://youtube.com/c/JAZZBLUES37999)
+- [/c/MagicMusicGroup](https://youtube.com/c/MagicMusicGroup)
+- [/c/Pinkazina](https://youtube.com/c/Pinkazina)
+- [/c/SLOWBLUESMUSIC68](https://youtube.com/c/SLOWBLUESMUSIC68)
+- [/c/SoothingRelaxation](https://youtube.com/c/SoothingRelaxation)
+- [/c/TheNewVibeYT](https://youtube.com/c/TheNewVibeYT)
+- [/user/BySmoji](https://youtube.com/user/BySmoji)
+- [/user/Mileebas](https://youtube.com/user/Mileebas)
+- [/user/sammyboi1000](https://youtube.com/user/sammyboi1000)
 - [/aphmaugaming](https://youtube.com/aphmaugaming)
 - [/c/20thcenturytimemachine](https://youtube.com/c/20thcenturytimemachine)
 - [/c/3dvr360](https://youtube.com/c/3dvr360)
@@ -470,8 +486,6 @@
 - [/c/zyapguy](https://youtube.com/c/zyapguy)
 - [/c/zylia](https://youtube.com/c/zylia)
 - [/gaming](https://youtube.com/gaming)
-- [/gaming/games](https://youtube.com/gaming/games)
-- [/gaming/trending](https://youtube.com/gaming/trending)
 - [/goddardtv](https://youtube.com/goddardtv)
 - [/googlechromedevelopers](https://youtube.com/googlechromedevelopers)
 - [/post/ugkxitdz_dvqg3l5dnamezvbewrbzfjmrcfd](https://youtube.com/post/ugkxitdz_dvqg3l5dnamezvbewrbzfjmrcfd)
@@ -707,3 +721,16 @@
 - [/user/zeissnature](https://youtube.com/user/zeissnature)
 - [/user/zhongguohaogequ](https://youtube.com/user/zhongguohaogequ)
 - [/wbpictures](https://youtube.com/wbpictures)
+
+### Channel List (Unnamed)
+
+**There is 8 links currently on this list!**
+
+- [/channel/UC3PhB06Mw0BAZjKdunMrajg](https://youtube.com/channel/UC3PhB06Mw0BAZjKdunMrajg)
+- [/channel/UC5-cg5RahETrjGu-r8zjYCQ](https://youtube.com/channel/UC5-cg5RahETrjGu-r8zjYCQ)
+- [/channel/UC9lktoaCzM2Dsl9mtr0IMkQ](https://youtube.com/channel/UC9lktoaCzM2Dsl9mtr0IMkQ)
+- [/channel/UC9qr4fem8L5HEx0IDoktEpw](https://youtube.com/channel/UC9qr4fem8L5HEx0IDoktEpw)
+- [/channel/UCcsrHJDzOxM7foZQWiBr8qQ](https://youtube.com/channel/UCcsrHJDzOxM7foZQWiBr8qQ)
+- [/channel/UCeLHszkByNZtPKcaVXOCOQQ](https://youtube.com/channel/UCeLHszkByNZtPKcaVXOCOQQ)
+- [/channel/UCTS9U13K42rCcRWJsdPW8yA](https://youtube.com/channel/UCTS9U13K42rCcRWJsdPW8yA)
+- [/channel/UCzyLniLK2YQ5xCJigB2WetA](https://youtube.com/channel/UCzyLniLK2YQ5xCJigB2WetA)
